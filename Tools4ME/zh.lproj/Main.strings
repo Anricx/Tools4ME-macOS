@@ -1,0 +1,336 @@
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "0J9-py-c5O"; */
+"0J9-py-c5O.title" = "Paste and Match Style";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; */
+"1UK-8n-QPP.title" = "Customize Toolbar…";
+
+/* Class = "NSMenuItem"; title = "Tools4ME"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Tools4ME";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "1a2-98-SE5"; */
+"1a2-98-SE5.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "22b-S0-NDB"; */
+"22b-S0-NDB.title" = "Show Spelling and Grammar";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "3N2-WN-s5Q"; */
+"3N2-WN-s5Q.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "46l-W9-2kP"; */
+"46l-W9-2kP.title" = "Correct Spelling Automatically";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
+"4J7-dP-txa.title" = "Enter Full Screen";
+
+/* Class = "NSMenuItem"; title = "Quit Tools4ME"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit Tools4ME";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "5Sb-cx-ac5"; */
+"5Sb-cx-ac5.title" = "Spelling";
+
+/* Class = "NSMenuItem"; title = "About Tools4ME"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About Tools4ME";
+
+/* Class = "NSButtonCell"; title = "编码"; ObjectID = "6Ue-Ly-I2q"; */
+"6Ue-Ly-I2q.title" = "编码";
+
+/* Class = "NSButtonCell"; title = "复制"; ObjectID = "7G1-ir-vZn"; */
+"7G1-ir-vZn.title" = "复制";
+
+/* Class = "NSTextFieldCell"; title = "Tools4ME"; ObjectID = "8Ge-uG-QI1"; */
+"8Ge-uG-QI1.title" = "Tools4ME";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "A5A-Uq-Qsj"; */
+"A5A-Uq-Qsj.title" = "Smart Dashes";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
+"Bw7-FT-i3A.title" = "Save As…";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "CCw-WF-nak"; */
+"CCw-WF-nak.title" = "Check Document Now";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Close";
+
+/* Class = "NSButtonCell"; title = "复制"; ObjectID = "DcU-dv-7SA"; */
+"DcU-dv-7SA.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "EoQ-Vf-lXf"; */
+"EoQ-Vf-lXf.title" = "Smart Copy/Paste";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Tools4ME Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Tools4ME Help";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "G1K-Kp-XHC"; */
+"G1K-Kp-XHC.title" = "Smart Links";
+
+/* Class = "NSButtonCell"; title = "解码"; ObjectID = "GAe-yn-15E"; */
+"GAe-yn-15E.title" = "解码";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "H2c-fg-eTg"; */
+"H2c-fg-eTg.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "View";
+
+/* Class = "NSButtonCell"; title = "复制"; ObjectID = "Hx7-ub-ioI"; */
+"Hx7-ub-ioI.title" = "复制";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "Open…";
+
+/* Class = "NSWindow"; title = "Tools4ME"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Tools4ME";
+
+/* Class = "NSTextFieldCell"; title = "32位HASH值"; ObjectID = "ImJ-tS-VYc"; */
+"ImJ-tS-VYc.title" = "32位HASH值";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "Ivc-kl-hg3"; */
+"Ivc-kl-hg3.title" = "Data Detectors";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "Jqx-cd-OPV"; */
+"Jqx-cd-OPV.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "KIg-OH-eiW"; */
+"KIg-OH-eiW.title" = "Text Replacement";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "KSC-5s-Jch"; */
+"KSC-5s-Jch.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
+"KaW-ft-85H.title" = "Revert to Saved";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "LsH-cP-nmX"; */
+"LsH-cP-nmX.title" = "Transformations";
+
+/* Class = "NSButtonCell"; title = "格式化"; ObjectID = "M8r-4b-JFl"; */
+"M8r-4b-JFl.title" = "格式化";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Hide Tools4ME"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide Tools4ME";
+
+/* Class = "NSButtonCell"; title = "解码"; ObjectID = "PNs-xU-y3M"; */
+"PNs-xU-y3M.title" = "解码";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "PTU-Pm-Hen"; */
+"PTU-Pm-Hen.title" = "Jump to Selection";
+
+/* Class = "NSButtonCell"; title = "清空"; ObjectID = "PY3-bD-pQ8"; */
+"PY3-bD-pQ8.title" = "清空";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSTabViewItem"; label = "Base64"; ObjectID = "SPg-5k-KxU"; */
+"SPg-5k-KxU.label" = "Base64";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "SQ5-dX-J4v"; */
+"SQ5-dX-J4v.title" = "Find Next";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "SfI-en-vg7"; */
+"SfI-en-vg7.title" = "Make Lower Case";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "TeZ-QB-WYO"; */
+"TeZ-QB-WYO.title" = "Check Spelling While Typing";
+
+/* Class = "NSTabViewItem"; label = "XML"; ObjectID = "Tin-Si-RLJ"; */
+"Tin-Si-RLJ.label" = "XML";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Tkz-pl-Lwa"; */
+"Tkz-pl-Lwa.title" = "Cut";
+
+/* Class = "NSTabViewItem"; label = "URLEncode"; ObjectID = "TnD-gJ-YBu"; */
+"TnD-gJ-YBu.label" = "URLEncode";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "UHX-A5-B0a"; */
+"UHX-A5-B0a.title" = "Use Selection for Find";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Uqw-J0-jTL"; */
+"Uqw-J0-jTL.title" = "Spelling and Grammar";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "Was-JA-tGl"; */
+"Was-JA-tGl.title" = "New";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "XlK-bc-95U"; */
+"XlK-bc-95U.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "YJQ-S9-M3r"; */
+"YJQ-S9-M3r.title" = "Capitalize";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Z04-vO-aSi"; */
+"Z04-vO-aSi.title" = "Start Speaking";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "ZBo-S2-0wu"; */
+"ZBo-S2-0wu.title" = "Show Substitutions";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "Print…";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "解码"; ObjectID = "abM-Jq-Dv1"; */
+"abM-Jq-Dv1.title" = "解码";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "bKS-Ma-e2A"; */
+"bKS-Ma-e2A.title" = "Delete";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "c19-Yg-Cgs"; */
+"c19-Yg-Cgs.title" = "Find";
+
+/* Class = "NSButtonCell"; title = "复制"; ObjectID = "cam-Ov-uXl"; */
+"cam-Ov-uXl.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "ceu-KI-zgK"; */
+"ceu-KI-zgK.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "File";
+
+/* Class = "NSButtonCell"; title = "压缩"; ObjectID = "dQD-u7-muD"; */
+"dQD-u7-muD.title" = "压缩";
+
+/* Class = "NSButtonCell"; title = "编码"; ObjectID = "eIe-2A-ynl"; */
+"eIe-2A-ynl.title" = "编码";
+
+/* Class = "NSButtonCell"; title = "清空"; ObjectID = "eRk-ld-uNa"; */
+"eRk-ld-uNa.title" = "清空";
+
+/* Class = "NSButtonCell"; title = "清空"; ObjectID = "euE-A0-WEi"; */
+"euE-A0-WEi.title" = "清空";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "fqJ-Ai-gLi"; */
+"fqJ-Ai-gLi.title" = "Find…";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "hQ6-sx-mh4"; */
+"hQ6-sx-mh4.title" = "Check Grammar With Spelling";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "hrj-IK-Jyl"; */
+"hrj-IK-Jyl.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "hvv-K5-O2p"; */
+"hvv-K5-O2p.title" = "Make Upper Case";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSTabViewItem"; label = "Unicode"; ObjectID = "iS4-7b-bTb"; */
+"iS4-7b-bTb.label" = "Unicode";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "iSG-rT-bpc"; */
+"iSG-rT-bpc.title" = "Find Previous";
+
+/* Class = "NSButtonCell"; title = "清空"; ObjectID = "jXt-9F-YX4"; */
+"jXt-9F-YX4.title" = "清空";
+
+/* Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "kIP-vf-haE"; */
+"kIP-vf-haE.title" = "Show Sidebar";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "l3U-ni-GwK"; */
+"l3U-ni-GwK.title" = "Transformations";
+
+/* Class = "NSButtonCell"; title = "格式化"; ObjectID = "ld4-ml-sIf"; */
+"ld4-ml-sIf.title" = "格式化";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
+"oas-Oc-fiZ.title" = "Open Recent";
+
+/* Class = "NSTabViewItem"; label = "JSON"; ObjectID = "pM1-pR-fm8"; */
+"pM1-pR-fm8.label" = "JSON";
+
+/* Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV"; */
+"pxx-59-PXV.title" = "Save…";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "rT6-BI-gf0"; */
+"rT6-BI-gf0.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "s5b-ML-BF6"; */
+"s5b-ML-BF6.title" = "Stop Speaking";
+
+/* Class = "NSButtonCell"; title = "复制"; ObjectID = "sWk-eP-xDU"; */
+"sWk-eP-xDU.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5"; */
+"snW-S8-Cw5.title" = "Show Toolbar";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "szv-00-Brt"; */
+"szv-00-Brt.title" = "Find and Replace…";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "t3u-VT-z8q"; */
+"t3u-VT-z8q.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "Open Recent";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "taj-DG-g1e"; */
+"taj-DG-g1e.title" = "Edit";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "tcf-cF-wqB"; */
+"tcf-cF-wqB.title" = "Find";
+
+/* Class = "NSTextFieldCell"; title = "16字符Hash(中段)"; ObjectID = "tyq-zJ-y4K"; */
+"tyq-zJ-y4K.title" = "16字符Hash(中段)";
+
+/* Class = "NSButtonCell"; title = "复制"; ObjectID = "uLR-U1-Gh6"; */
+"uLR-U1-Gh6.title" = "复制";
+
+/* Class = "NSMenu"; title = "Tools4ME"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Tools4ME";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
+"vNY-rz-j42.title" = "Clear Menu";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "wOS-oL-Yzd"; */
+"wOS-oL-Yzd.title" = "Smart Quotes";
+
+/* Class = "NSButtonCell"; title = "清空"; ObjectID = "wdd-7t-2NV"; */
+"wdd-7t-2NV.title" = "清空";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
+
+/* Class = "NSTabViewItem"; label = "MD5"; ObjectID = "xu0-13-k4G"; */
+"xu0-13-k4G.label" = "MD5";
+
+/* Class = "NSButtonCell"; title = "压缩"; ObjectID = "y9s-CH-p2r"; */
+"y9s-CH-p2r.title" = "压缩";
+
+/* Class = "NSButtonCell"; title = "编码"; ObjectID = "yak-yV-2ho"; */
+"yak-yV-2ho.title" = "编码";
+
+/* Class = "NSButtonCell"; title = "复制"; ObjectID = "yxO-oa-sSL"; */
+"yxO-oa-sSL.title" = "复制";

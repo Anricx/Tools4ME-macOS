@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Tools4ME
+
+  Created by Dr. D.T. on 2017/8/20.
+  Copyright © 2017年 Dr. D.T. All rights reserved.
+ */
+"message.tabview.hud.switched" = "Switched";
+
+"message.input.empty" = "EMPTY CONTENT";
+"message.input.not.base64" = "NOT BASE64";
+"message.input.not.unicode" = "NOT UNICODE";
+"message.input.not.urlencode" = "NOT URLENCODE";
+"message.input.already.unicode" = "ALREADY UNICODE";
+
+"message.input.invalid.xml" = "XML INVALID";
+"message.input.invalid.json" = "JSON INVALID";
+
+"message.action.copied" = "COPIED";
+"message.action.cleared" = "CLEARED";
+"message.action.copy.empty" = "EMPTY CONTENT";

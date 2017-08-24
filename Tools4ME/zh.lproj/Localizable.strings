@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Tools4ME
+
+  Created by Dr. D.T. on 2017/8/20.
+  Copyright © 2017年 Dr. D.T. All rights reserved.
+*/
+"message.tabview.hud.switched" = "已切换";
+
+"message.input.empty" = "未填写内容";
+"message.input.not.base64" = "非Base64内容";
+"message.input.not.unicode" = "非Unicode内容";
+"message.input.not.urlencode" = "非URLEncode内容";
+"message.input.already.unicode" = "已Unicode编码";
+
+"message.input.invalid.xml" = "XML内容无效";
+"message.input.invalid.json" = "JSON内容无效";
+
+"message.action.copied" = "已复制";
+"message.action.cleared" = "已清空";
+"message.action.copy.empty" = "无可复制内容";
