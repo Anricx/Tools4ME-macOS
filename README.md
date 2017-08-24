@@ -8,6 +8,7 @@ Tools4ME macOS Version, Support macOS 10.11+ Based on Swift!
 * JSON Compact/Pretty
 * XML Compact/Pretty
 * MD5 Encrypt
+* Support Zoom By 2 Fingers
 
 ## TODO
 
