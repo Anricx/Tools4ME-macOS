@@ -24,7 +24,7 @@ class AbstractTabItemViewController: NSViewController {
         hud.opacity = 0.8
         hud.margin = 16.0
         hud.removeFromSuperViewOnHide = true
-        hud.hide(true, afterDelay: 0.6)
+        hud.hide(true, afterDelay: 0.3)
     }
     
     func showHUD(text : String) {
@@ -35,7 +35,7 @@ class AbstractTabItemViewController: NSViewController {
         hud.opacity = 0.8
         hud.margin = 10.0
         hud.removeFromSuperViewOnHide = true
-        hud.hide(true, afterDelay: 0.8)
+        hud.hide(true, afterDelay: 0.5)
     }
     
 }
