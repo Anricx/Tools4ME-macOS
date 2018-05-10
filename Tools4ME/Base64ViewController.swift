@@ -38,12 +38,11 @@ class Base64ViewController: AbstractTabItemViewController {
     }
     
     @IBAction func onEncoding(_ sender: Any) {
-        let text : String = (self.textView.textStorage as NSAttributedString!).string
-        if (text.characters.count == 0) {
+        guard let text = self.textView.textStorage?.string, text.count > 0 else {
             self.showHUD(text: NSLocalizedString("message.input.empty", comment: "message.input.empty"))
             return
         }
-        
+                
         let payload : String = text.data(using: String.Encoding.utf8)!.base64EncodedString()
 
         // Replace By Encoded String...
